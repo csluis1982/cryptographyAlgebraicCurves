@@ -1,0 +1,20 @@
+
+    #_ BIBLIOGRAPHY
+    
+    1. LOEBL, Group THeory and its Applications, Academic Press, 1968.
+    2. Eilenberg, Automata, Languages, and Machines, Academic Press, 1974.
+    3. Menezes, Oorschat, et al. Handbook of Applied Cryptography, Taylor and Francis, 1997.
+    4.Yaschenko, Cryptography: An Introduction, American Mathematical Society, 2002.
+    5.Almeida, et al., Semigroups, Automata and Languages, World Scientific Publishing, 1996.
+    7.Block, Abstract Algebra with Applications, Prentice-Hall, New Jersey,1987.
+    8.Rotman, A first Course in Abstract Algebra, Prentice-Hall.
+    9.Pinto, An Introduction to Discrete Dynamical Systems and their General Solutions.
+    10.Walker, Codes and Curves, American Mathematical Society. 2002.
+    11.Epstein, Computability, Advanced Reasoning Forum, 2018.
+    12.Harrisson, Introduction to Formal Language THeory, Addison-Wesley,1978.
+    13.Mullen, Finite Fields and Applications, American MAthematical Society, 2007.
+    14. Chen Chuan et al., PRinciples and Techiniques in Combinatorics, World Scientific, Sigapore, 1992.
+    15. Ackermann, Non Deductive Logic, Routledge, 1966.
+    16. Cohn, Harvey, Conformal mappings on Riemann Surfaces, Dover, 1967.
+    17. A Conformal Mapping Technique for Infinitely Connected Regions, A.M.S., Number 91, 1970.
+    18. Smullyan, Theory of Formal Systems, Princeton, 1961.
