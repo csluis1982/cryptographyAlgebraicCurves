@@ -18,3 +18,4 @@
     16. Cohn, Harvey, Conformal mappings on Riemann Surfaces, Dover, 1967.
     17. A Conformal Mapping Technique for Infinitely Connected Regions, A.M.S., Number 91, 1970.
     18. Smullyan, Theory of Formal Systems, Princeton, 1961.
+    19. Kuratowisk, Set Theory, with an introduction to descreptive set theory, North-Holland, 1979.
